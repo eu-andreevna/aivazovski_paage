@@ -1,6 +1,7 @@
 .home {
     text-align: center;
     color: var(--color-main-black);
+    padding: 0 0 70px 0;
 }
 
 .home--title {
